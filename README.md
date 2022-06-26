@@ -1,4 +1,3 @@
 # CNN-
 
-this repo will give a basic deployment of Convolutional Neural Network in a model.It aims to identify handwritten digits with 98% acuuracy.
-The dataset have been used from kaggle.com (MNIST)
+this repo will give a basic deployment of Convolutional Neural Network in a model.It aims to identify Traffic signals and process them with labelling. The GUI used is based on tkinter libraby of Python
